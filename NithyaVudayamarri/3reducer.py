@@ -19,7 +19,7 @@ for line in s:
     
   
   # apply the aggregation function
-  thisValue = max(thisValue,float(amount))
+  thisValue += float(amount)
   
 
 # output the final entry when done
