@@ -1,4 +1,4 @@
-input = open("cost.txt", "r")
+input = open("WineReviewsData.txt", "r")
 output = open("01.txt", "w")
 
 for line in input:
