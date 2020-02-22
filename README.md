@@ -67,7 +67,7 @@ Reducer Output - Argentina	82.0
 Australia	36.0
 Bulgaria	15.0
 
-Chart Type - 
+Chart Type - For each country, the count price of wine is presented as Bar chart
 
 ### Nithya Vudayamarri
 Problem statement: For each country, find the sum of wine?
