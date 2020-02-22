@@ -35,6 +35,7 @@ https://www.kaggle.com/zynicide/wine-reviews
 Problem Statement: For each country, find the maximum pice of wine?
 
 Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
+
 Mapper Output - US	235
                 Spain	110
                 US	90
