@@ -88,30 +88,33 @@ Problem statement: For each country, find the average price of wine?
 
 Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
 
-# Mapper output 
+### Mapper output 
 ![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/MapperOutput.png)
 
-# Sort and Shuffle output 
+### Sort and Shuffle output 
 ![SortShuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/SortShuffleOutput.png)
 
-# Reducer Output 
+### Reducer Output 
 ![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/ReducerOutput.png)
 
-# Chart Type 
+### Chart Type 
 ![Graphical Representation](https://github.com/manasagoriparthi/wine-04/blob/master/BhavaniPathuri/Graph.png)
 
 ## Challenges
 - Our dataset has few ASCII values in some of the columns, which caused us some errors while executing the code.
 - Some columns had Null values in it, which also caused some issues while executing.
-- we also had few challenges using the Github, as the commits and the folders of our team-mates are not showing in the repo, so we have   created another repository. 
+- we also had few challenges using the Github, as the commits and the folders of our team-mates were not reflecting the repo, so we have   created another repository. 
 - we also had few merge conflicts while pushing the code to the repo.
 
 ## Suggestions
-- Our suggestions for others who are learning mapreduce is to choose a dataset wisely ,because the dataset with have lots of strings and   null values cause many issues while executing the code. 
+- Our suggestions for others who are learning mapreduce is to choose a dataset wisely, because the dataset with lots of strings and   null values cause many issues while executing the code.
 
 ## Time Estimates
 ### Chitralekha
-- This assignment took me around 4 hours, getting a correct reducer output for my aggreagate function took a lot of time for me as we     have null values in our dataset. 
+- This assignment took me around 4 hours, getting a correct reducer output for my aggreagate function took a lot of time for me as we     have null values in our dataset.
+### Bhavani Pathuri
+- This assignment took me around 5-6 hours because of the issues of my github where i did all my commits and pushed the code but it didn't reflect in the repository and getting correct out for my average function as our data set contains lots of null and ASCII values.
+
 
 
 
