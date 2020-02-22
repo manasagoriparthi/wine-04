@@ -30,4 +30,38 @@
 ## Link for the datasource
 https://www.kaggle.com/zynicide/wine-reviews
 
+## Big Data Problems
+### Chitralekha chikku
+Problem Statement: For each country, find the maximum pice of wine?
+
+
+
+
+
+### Manasa Goriparthi
+Problem Statement: For each country, find the count of wine?
+
+
+
+
+
+### Nithya Vudayamarri
+Problem statement: Foe each country, find the sum of wine?
+
+
+
+
+
+
+
+### Bhavani Pathuri
+Problem statement: For each country, find the average rice of wine?
+
+
+
+
+
+
+
+
 
