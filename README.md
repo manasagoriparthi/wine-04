@@ -98,7 +98,7 @@ Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and 
 ![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/ReducerOutput.png)
 
 # Chart Type 
-![Graphical Representation](https://github.com/manasagoriparthi/wine-04/blob/master/Graph.png)
+![Graphical Representation](https://github.com/manasagoriparthi/wine-04/blob/master/BhavaniPathuri/Graph.png)
 
 ## Challenges
 - Our dataset has few ASCII values in some of the columns, which caused us some errors while executing the code.
