@@ -18,7 +18,7 @@ for line in s:
     thisValue = 0.0
     count=1
   
-  # apply the aggregation function
+  # apply the average function
   thisValue += float(amount)
   count += 1
 
