@@ -95,6 +95,12 @@ Chart Type -
 - we also had few challenges using the Github, as the commits and the folders of our team-mates are not showing in the repo, so we have   created another repository. 
 - we also had few merge conflicts while pushing the code to the repo.
 
+## Suggestions
+- Our suggestions for others who are learning mapreduce is to choose a dataset wisely ,because the dataset with have lots of strings and   null values cause many issues while executing the code. 
+
+## Time Estimates
+### Chitralekha
+- This assignment took me around 4 hours, getting a correct reducer output for my aggreagate function took a lot of time for me as we     have null values in our dataset. 
 
 
 
