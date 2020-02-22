@@ -63,7 +63,9 @@ Sort and shuffle output -Argentina	12
 Argentina	15
 Argentina	25
 
-Reducer Output - 
+Reducer Output - Argentina	82.0
+Australia	36.0
+Bulgaria	15.0
 
 Chart Type - 
 
