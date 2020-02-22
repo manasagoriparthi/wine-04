@@ -32,7 +32,7 @@ https://www.kaggle.com/zynicide/wine-reviews
 
 ## Big Data Problems
 ### Chitralekha chikku
-Problem Statement: For each country, find the maximum pice of wine?
+Problem Statement: For each country, find the maximum price of wine?
 
 Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
 
@@ -48,7 +48,7 @@ Reducer Output - Argentina	30.0
                  Australia	36.0
                  Bulgaria	15.0
 
-Chart Type - 
+Chart Type -  For each country, the maximum price of wine is presented as Bar chart
 
 ### Manasa Goriparthi
 Problem Statement: For each country, find the count of wine?
@@ -64,7 +64,7 @@ Reducer Output -
 Chart Type - 
 
 ### Nithya Vudayamarri
-Problem statement: Foe each country, find the sum of wine?
+Problem statement: For each country, find the sum of wine?
 
 Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
 
@@ -77,7 +77,7 @@ Reducer Output -
 Chart Type - 
 
 ### Bhavani Pathuri
-Problem statement: For each country, find the average rice of wine?
+Problem statement: For each country, find the average price of wine?
 
 Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
 
