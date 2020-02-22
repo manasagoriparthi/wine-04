@@ -10,8 +10,8 @@
 - Manasa Goriparthi - s534782@nwmissouri.edu
 
 ## Links
-- Repository Link: :(https://github.com/manasagoriparthi/wine-04)
-- Issuetracker Link: (https://github.com/pathuribhavani/wine-reviews-04/issues)
+- [Repository Link] (https://github.com/manasagoriparthi/wine-04)
+- [Issuetracker Link] (https://github.com/pathuribhavani/wine-reviews-04/issues)
 
 ## Introduction
 - The wine review Dataset has 130K wine reviews with variety, location, winery, price, and description. The source of this dataset is by Zackthoutt (where his idea was by a documentary on master sommeliers). This Dataset offers some great oppurtunities for sentimental analysis and other text related predictive models.
