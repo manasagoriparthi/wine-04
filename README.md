@@ -58,7 +58,10 @@ Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and 
 Mapper Output - US	235
 Spain	110
 US	90
-Sort and shuffle output -
+
+Sort and shuffle output -Argentina	12
+Argentina	15
+Argentina	25
 
 Reducer Output - 
 
