@@ -89,16 +89,16 @@ Problem statement: For each country, find the average price of wine?
 Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
 
 # Mapper output 
-[!Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/MapperOutput.png)
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/MapperOutput.png)
 
 # Sort and Shuffle output 
-[!SortShuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/SortShuffleOutput.png)
+![SortShuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/SortShuffleOutput.png)
 
 # Reducer Output 
-[!Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/Reducer.png)
+![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/Reducer.png)
 
 # Chart Type 
-[!Graphical Representation](https://github.com/manasagoriparthi/wine-04/blob/master/Graph.png)
+![Graphical Representation](https://github.com/manasagoriparthi/wine-04/blob/master/Graph.png)
 
 ## Challenges
 - Our dataset has few ASCII values in some of the columns, which caused us some errors while executing the code.
