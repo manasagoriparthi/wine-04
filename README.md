@@ -2,10 +2,10 @@
 # wine-reviews-04
 ## BigData 44517Sec01-04
 ## Team Members
-- Bhavani Pathuri
-- Chitralekha Chikku
-- Nithya Vudayamarri
-- Manasa Goriparthi
+- Bhavani Pathuri - s534867@nwmissouri.edu
+- Chitralekha Chikku - s534630@nwmissouri.edu
+- Nithya Vudayamarri - s534641@nwmissouri.edu
+- Manasa Goriparthi - s534782@nwmissouri.edu
 ## Links
 - [Repository Link]:(https://github.com/manasagoriparthi/wine-04)
 - [IssuseTracker]: (https://github.com/pathuribhavani/wine-reviews-04/issues)
