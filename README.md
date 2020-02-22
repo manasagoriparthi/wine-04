@@ -89,6 +89,12 @@ Reducer Output -
 
 Chart Type - 
 
+## Challenges
+- Our dataset has few ASCII values in some of the columns, which caused us some errors while executing the code.
+- Some columns had Null values in it, which also caused some issues while executing.
+- we also had few challenges using the Github, as the commits and the folders of our team-mates are not showing in the repo, so we have   created another repository. 
+- we also had few merge conflicts while pushing the code to the repo.
+
 
 
 
