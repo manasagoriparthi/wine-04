@@ -34,31 +34,59 @@ https://www.kaggle.com/zynicide/wine-reviews
 ### Chitralekha chikku
 Problem Statement: For each country, find the maximum pice of wine?
 
+Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
+Mapper Output - US	235
+                Spain	110
+                US	90
+                
+Sort and shuffle output -Argentina	12
+                         Argentina	15
+                         Argentina	25
 
+Reducer Output - Argentina	30.0
+                 Australia	36.0
+                 Bulgaria	15.0
 
-
+Chart Type - 
 
 ### Manasa Goriparthi
 Problem Statement: For each country, find the count of wine?
 
+Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
 
+Mapper Output - 
+                
+Sort and shuffle output -
 
+Reducer Output - 
 
+Chart Type - 
 
 ### Nithya Vudayamarri
 Problem statement: Foe each country, find the sum of wine?
 
+Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
 
+Mapper output - 
 
+Sort and Shuffle output - 
 
+Reducer Output - 
 
-
+Chart Type - 
 
 ### Bhavani Pathuri
 Problem statement: For each country, find the average rice of wine?
 
+Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
 
+Mapper output - 
 
+Sort and Shuffle output - 
+
+Reducer Output - 
+
+Chart Type - 
 
 
 
