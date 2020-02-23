@@ -39,16 +39,21 @@ Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and 
 Mapper Output - US	235
                 Spain	110
                 US	90
-                
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/chitra_mapperoutput%20.png)
+
 Sort and shuffle output -Argentina	12
                          Argentina	15
                          Argentina	25
 
+![SortShuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/chitra_reduceroutput.png)
+
 Reducer Output - Argentina	30.0
                  Australia	36.0
                  Bulgaria	15.0
+![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/chitra_sortandshuffleoutput.png)
 
 Chart Type -  For each country, the maximum price of wine is presented as Bar chart
+![Graphical Representation](https://github.com/manasagoriparthi/wine-04/blob/master/chitra_chart.png)
 
 ### Manasa Goriparthi
 Problem Statement: For each country, find the count of wine?
