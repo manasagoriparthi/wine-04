@@ -64,6 +64,8 @@ Mapper Output - US	235
 Spain	110
 US	90
 
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-mapper%20output.png)
+
 Sort and shuffle output -Argentina	12
 Argentina	15
 Argentina	25
