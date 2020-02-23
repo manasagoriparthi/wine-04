@@ -64,27 +64,38 @@ Mapper Output - US	235
 Spain	110
 US	90
 
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-mapper%20output.png)
+
 Sort and shuffle output -Argentina	12
 Argentina	15
 Argentina	25
+
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-sortandshuffle-output.png)
 
 Reducer Output - Argentina	82.0
 Australia	36.0
 Bulgaria	15.0
 
-Chart Type - For each country, the count price of wine is presented as Bar chart
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-reduceroutput.png)
+
+Chart Type - For each country, the count price of wine is presented as line graph.
+
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-line-graph.png)
 
 ### Nithya Vudayamarri
 Problem statement: For each country, find the sum of wine?
 
 Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
 
-Mapper output - 
+### Mapper output  
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/Nithya_MapperOutput.png)
 
 
-Sort and Shuffle output - 
+### Sort and Shuffle output 
+![SortShuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/Nithya_SortShuffleOutput.png)
 
-Reducer Output - 
+### Reducer Output - 
+![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/Nithya_Reduceroutput.png)
 
 Chart Type - 
 
@@ -119,7 +130,8 @@ Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and 
 - This assignment took me around 4 hours, getting a correct reducer output for my aggreagate function took a lot of time for me as we     have null values in our dataset.
 ### Bhavani Pathuri
 - This assignment took me around 5-6 hours because of the issues of my github where i did all my commits and pushed the code but it didn't reflect in the repository and getting correct out for my average function as our data set contains lots of null and ASCII values.
-
+### Nithya Vudayamarri
+- This assignment took e around 3-4 hours because the first repo link in the github did not refelect many of our commits. So we group members created a new one and started the process again and solved the mistake. I solved sum function, which took me around 40 minutes to do and take all the sceenshots.
 
 
 
