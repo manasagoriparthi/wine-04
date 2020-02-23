@@ -130,7 +130,8 @@ Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and 
 - This assignment took me around 4 hours, getting a correct reducer output for my aggreagate function took a lot of time for me as we     have null values in our dataset.
 ### Bhavani Pathuri
 - This assignment took me around 5-6 hours because of the issues of my github where i did all my commits and pushed the code but it didn't reflect in the repository and getting correct out for my average function as our data set contains lots of null and ASCII values.
-
+### Nithya Vudayamarri
+- This assignment took e around 3-4 hours because the first repo link in the github did not refelect many of our commits. So we group members created a new one and started the process again and solved the mistake. I solved sum function, which took me around 40 minutes to do and take all the sceenshots.
 
 
 
