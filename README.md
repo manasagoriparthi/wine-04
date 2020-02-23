@@ -76,6 +76,8 @@ Reducer Output - Argentina	82.0
 Australia	36.0
 Bulgaria	15.0
 
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-reduceroutput.png)
+
 Chart Type - For each country, the count price of wine is presented as Bar chart
 
 ### Nithya Vudayamarri
