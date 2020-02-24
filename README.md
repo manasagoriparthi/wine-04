@@ -64,23 +64,23 @@ Mapper Output - US	235
 Spain	110
 US	90
 
-![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-mapper%20output.png)
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa_images/manasa-mapper%20output.png)
 
 Sort and shuffle output -Argentina	12
 Argentina	15
 Argentina	25
 
-![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-sortandshuffle-output.png)
+![sortandshuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa_images/manasa-sortandshuffle-output.png)
 
 Reducer Output - Argentina	82.0
 Australia	36.0
 Bulgaria	15.0
 
-![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-reduceroutput.png)
+![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa_images/manasa-reduceroutput.png)
 
 Chart Type - For each country, the count price of wine is presented as line graph.
 
-![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-line-graph.png)
+![Chart](https://github.com/manasagoriparthi/wine-04/blob/master/manasa_images/manasa-line-graph.png)
 
 ### Nithya Vudayamarri
 Problem statement: For each country, find the sum of wine?
