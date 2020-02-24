@@ -95,7 +95,7 @@ Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and 
 ![SortShuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/nitya_images/Nithya_SortShuffleOutput.png)
 
 ### Reducer Output - 
-![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/Nithya_Reduceroutput.png)
+![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/nitya_images/Nithya_SortShuffleOutput.png)
 
 ### Chart Type - 
 ![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/Nithya_Graph.png)
