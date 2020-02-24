@@ -58,29 +58,29 @@ Chart Type -  For each country, the maximum price of wine is presented as Bar ch
 ### Manasa Goriparthi
 Problem Statement: For each country, find the count of wine?
 
-Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96 235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
+Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
 
 Mapper Output - US	235
 Spain	110
 US	90
 
-![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa_images/manasa-mapper%20output.png)
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-mapper%20output.png)
 
 Sort and shuffle output -Argentina	12
 Argentina	15
 Argentina	25
 
-![Sort and Shuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa_images/manasa-sortandshuffle-output.png)
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-sortandshuffle-output.png)
 
 Reducer Output - Argentina	82.0
 Australia	36.0
 Bulgaria	15.0
 
-![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa_images/manasa-reduceroutput.png)
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-reduceroutput.png)
 
 Chart Type - For each country, the count price of wine is presented as line graph.
 
-![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa_images/manasa-line-graph.png)
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-line-graph.png)
 
 ### Nithya Vudayamarri
 Problem statement: For each country, find the sum of wine?
@@ -88,17 +88,17 @@ Problem statement: For each country, find the sum of wine?
 Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
 
 ### Mapper output  
-![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/nitya_images/Nithya_MapperOutput.png)
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/Nithya_MapperOutput.png)
 
 
 ### Sort and Shuffle output 
-![SortShuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/nitya_images/Nithya_SortShuffleOutput.png)
+![SortShuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/Nithya_SortShuffleOutput.png)
 
 ### Reducer Output - 
-![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/nitya_images/Nithya_SortShuffleOutput.png)
+![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/Nithya_Reduceroutput.png)
 
 ### Chart Type - 
-![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/nitya_images/Nithya_SortShuffleOutput.png)
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/Nithya_Graph.png)
 
 ### Bhavani Pathuri
 Problem statement: For each country, find the average price of wine?
@@ -115,7 +115,7 @@ Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and 
 ![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/bhavani_images/ReducerOutput.png)
 
 ### Chart Type 
-![Graphical Representation](https://github.com/manasagoriparthi/wine-04/blob/master/bhavani_images/Graph.png)
+![Graphical Representation](https://github.com/manasagoriparthi/wine-04/blob/master/BhavaniPathuri/Graph.png)
 
 ## Challenges
 - Our dataset has few ASCII values in some of the columns, which caused us some errors while executing the code.
@@ -132,9 +132,7 @@ Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and 
 ### Bhavani Pathuri
 - This assignment took me around 5-6 hours because of the issues of my github where i did all my commits and pushed the code but it didn't reflect in the repository and getting correct out for my average function as our data set contains lots of null and ASCII values.
 ### Nithya Vudayamarri
-- This assignment took me around 3-4 hours because the first repo link in the github did not refelect many of our commits. So we group members created a new one and started the process again and solved the mistake. I solved sum function, which took me around 40 minutes to do and take all the sceenshots.
-### Manasa Goriparthi
-- This assignment took me around 5 hours because at the first repo link in the github did not refelect many of our commits. So we group members created a new one and started the process again and solved the mistake. I solved count function, which took me around 20 minutes to do and take all the sceenshots. I also faced challenges with the data as it contained null values and ASCII values
+- This assignment took e around 3-4 hours because the first repo link in the github did not refelect many of our commits. So we group members created a new one and started the process again and solved the mistake. I solved sum function, which took me around 40 minutes to do and take all the sceenshots.
 
 
 
