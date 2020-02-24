@@ -80,7 +80,7 @@ Bulgaria	15.0
 
 Chart Type - For each country, the count price of wine is presented as line graph.
 
-![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-line-graph.png)
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa_images/manasa-line-graph.png)
 
 ### Nithya Vudayamarri
 Problem statement: For each country, find the sum of wine?
