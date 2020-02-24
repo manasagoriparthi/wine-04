@@ -58,7 +58,7 @@ Chart Type -  For each country, the maximum price of wine is presented as Bar ch
 ### Manasa Goriparthi
 Problem Statement: For each country, find the count of wine?
 
-Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96	235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
+Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and was aged over three years in oak. Juicy red-cherry fruit and a compelling hint of caramel greet the palate, framed by elegant, fine tannins and a subtle minty tone in the background. Balanced and rewarding from start to finish, it has years ahead of it to develop further nuance. Enjoy 2022–2030."	Martha's Vineyard	96 235	California	Napa Valley	Napa	Cabernet Sauvignon	Heitz
 
 Mapper Output - US	235
 Spain	110
@@ -76,7 +76,7 @@ Reducer Output - Argentina	82.0
 Australia	36.0
 Bulgaria	15.0
 
-![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-reduceroutput.png)
+![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa_images/manasa-reduceroutput.png)
 
 Chart Type - For each country, the count price of wine is presented as line graph.
 
