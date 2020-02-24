@@ -98,7 +98,7 @@ Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and 
 ![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/nitya_images/Nithya_SortShuffleOutput.png)
 
 ### Chart Type - 
-![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/Nithya_Graph.png)
+![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/nitya_images/Nithya_SortShuffleOutput.png)
 
 ### Bhavani Pathuri
 Problem statement: For each country, find the average price of wine?
