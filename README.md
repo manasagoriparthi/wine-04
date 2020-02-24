@@ -70,7 +70,7 @@ Sort and shuffle output -Argentina	12
 Argentina	15
 Argentina	25
 
-![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa-sortandshuffle-output.png)
+![Sort and Shuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/manasa_images/manasa-sortandshuffle-output.png)
 
 Reducer Output - Argentina	82.0
 Australia	36.0
