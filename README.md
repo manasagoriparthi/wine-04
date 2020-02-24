@@ -132,7 +132,9 @@ Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and 
 ### Bhavani Pathuri
 - This assignment took me around 5-6 hours because of the issues of my github where i did all my commits and pushed the code but it didn't reflect in the repository and getting correct out for my average function as our data set contains lots of null and ASCII values.
 ### Nithya Vudayamarri
-- This assignment took e around 3-4 hours because the first repo link in the github did not refelect many of our commits. So we group members created a new one and started the process again and solved the mistake. I solved sum function, which took me around 40 minutes to do and take all the sceenshots.
+- This assignment took me around 3-4 hours because the first repo link in the github did not refelect many of our commits. So we group members created a new one and started the process again and solved the mistake. I solved sum function, which took me around 40 minutes to do and take all the sceenshots.
+### Manasa Goriparthi
+- This assignment took me around 5 hours because at the first repo link in the github did not refelect many of our commits. So we group members created a new one and started the process again and solved the mistake. I solved count function, which took me around 20 minutes to do and take all the sceenshots. I also faced challenges with the data as it contained null values and ASCII values
 
 
 
