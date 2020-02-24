@@ -109,7 +109,7 @@ Mapper Input - 0	US	"This tremendous 100% varietal wine hails from Oakville and 
 ![Mapper Output](https://github.com/manasagoriparthi/wine-04/blob/master/bhavani_images/MapperOutput.png)
 
 ### Sort and Shuffle output 
-![SortShuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/SortShuffleOutput.png)
+![SortShuffle Output](https://github.com/manasagoriparthi/wine-04/blob/master/bhavani_images/SortShuffleOutput.png)
 
 ### Reducer Output 
 ![Reducer Output](https://github.com/manasagoriparthi/wine-04/blob/master/ReducerOutput.png)
